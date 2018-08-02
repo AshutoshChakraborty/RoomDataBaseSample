@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDataBaseSample</string>
+    <string name="base_url">https://api.myjson.com/bins/edx34</string>
+</resources>
